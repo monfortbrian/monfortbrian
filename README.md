@@ -5,16 +5,16 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white&color=071A2C&link=https://twitter.com/monfortbrian)](https://twitter.com/monfortbrian)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C&link=mailto:monfortbrian@outlook.com)](mailto:monfortbrian@outlook.com)
 
-## <samp>Hello World!, Amahoro</samp> <img src="https://github.com/monfortbrian/monfort-brian/blob/master/assets/earth.gif" width="22px">
+## <samp>Hello World!, Amahoro</samp> <img src="https://github.com/monfortbrian/monfort-brian/blob/master/assets/earth.gif" width="35px">
 
-<samp>A Freelance Full Stack Developer | Web & Mobile and IT Consultant <br> Currently I'm a CEO of startup called Bluetec 🚀 in Burundi, passionate about solving social problems with a rapid-prototyping & agile environment using mainly JavaScript and Python.</samp>
+<samp>A Full Stack Developer | Web & Mobile and IT Consultant. <br> Currently I'm a CEO of [__Bluetec__](https://github.com/bluetechstartup)🚀, a startup based in Burundi, <br>I'm passionate about solving social problems with a rapid-prototyping & <br> agile environment using mainly JavaScript and Python ecosystem.</samp>
 <samp>
 
-When i am not <img src="https://github.com/monfortbrian/monfort-brian/blob/master/assets/developer.gif" width="25px">
- , I'm probably chilling in the nature, sipping alcohol with family and friends, or travelling</samp> &nbsp;  &nbsp; 
+When i am not <img src="https://github.com/monfortbrian/monfort-brian/blob/master/assets/developer.gif" width="40px">
+ , I'm probably chilling in the nature, sipping alcohol with friends.</samp> &nbsp;  &nbsp; 
 
 
-- ✈️ &nbsp; <samp>I love to travel and get to know new places and cultures.</samp>
-- 👨‍🎓 &nbsp; <samp>[__here__](https://github.com/monfortbrian/academic-projects) are my academic life and projects as well </samp>
+- ☕ 📍 &nbsp; <samp>coffee lover & like to travel</samp>
+- 👨‍🎓    &nbsp; <samp>[__here__](https://github.com/monfortbrian/academic-projects) are my academic life and projects as well </samp>
 
 ---
