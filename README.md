@@ -7,7 +7,7 @@
 
 ## <samp>Hello World!, Amahoro</samp> <img src="https://github.com/monfortbrian/monfort-brian/blob/master/assets/earth.gif" width="22px">
 
-<samp>A Full Stack Developer | Web & Mobile, currently I'm a CEO of startup called Bluetec 🚀 in Burundi, passionate about solving social problems with a rapid-prototyping & agile environment using mainly JavaScript and Python.</samp>
+<samp>A Freelance Full Stack Developer | Web & Mobile and IT Consultant <br> Currently I'm a CEO of startup called Bluetec 🚀 in Burundi, passionate about solving social problems with a rapid-prototyping & agile environment using mainly JavaScript and Python.</samp>
 <samp>
 
 When i am not <img src="https://github.com/monfortbrian/monfort-brian/blob/master/assets/developer.gif" width="25px">
