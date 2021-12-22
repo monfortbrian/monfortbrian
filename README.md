@@ -5,16 +5,27 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white&color=071A2C&link=https://twitter.com/monfortbrian)](https://twitter.com/monfortbrian)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C&link=mailto:monfortbrian@outlook.com)](mailto:monfortbrian@outlook.com)
 
-## <samp>Hello World!, Amahoro</samp> <img src="https://github.com/monfortbrian/monfort-brian/blob/master/assets/earth.gif" width="35px">
+## <samp>Hello World!, Amahoro</samp> <img src="https://github.com/monfortbrian/monfortbrian/blob/master/assets/earth.gif" width="35px">
 
 <samp>A Full Stack Developer | Web & Mobile and IT Consultant. <br> Currently I'm a CEO of [__Bluetec__](https://github.com/bluetechstartup)🚀, a startup based in Burundi, <br>I'm passionate about solving social problems with a rapid-prototyping & <br> agile environment using mainly JavaScript and Python ecosystem.</samp>
 <samp>
 
-When i am not <img src="https://github.com/monfortbrian/monfort-brian/blob/master/assets/developer.gif" width="40px">
+When i am not <img src="https://github.com/monfortbrian/monfortbrian/blob/master/assets/developer.gif" width="40px">
  , I'm probably chilling in the nature, sipping alcohol with friends.</samp> &nbsp;  &nbsp; 
 
 
 - ☕ 📍 &nbsp; <samp>coffee lover & like to travel</samp>
 - 👨‍🎓    &nbsp; <samp>[__here__](https://github.com/monfortbrian/academic-projects) are my academic life and projects as well </samp>
+
+
+## &#x1f4c8; My GitHub Stats
+
+<a href="https://github.com/monfortbrian/monfortbrian">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monfortbrian&hide=java,html&title_color=000000&text_color=000000" />
+</a>
+
+<a href="https://github.com/monfortbrian/monfortbrian">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=monfortbrian&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=FAC051" alt="natterstefan's GitHub Stats" />
+</a>
 
 ---
