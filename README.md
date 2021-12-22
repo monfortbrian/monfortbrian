@@ -15,6 +15,6 @@ When i am not <img src="https://github.com/monfortbrian/monfort-brian/blob/maste
 
 
 - ✈️ &nbsp; <samp>I love to travel and get to know new places and cultures.</samp>
-- 👨‍🎓 &nbsp; <samp>[__here__] are my academic life and projects as well (https://github.com/monfortbrian/academic-projects)</samp>
+- 👨‍🎓 &nbsp; <samp>[__here__](https://github.com/monfortbrian/academic-projects) are my academic life and projects as well </samp>
 
 ---
