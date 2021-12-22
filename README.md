@@ -10,7 +10,7 @@
 <samp>A Full Stack Developer | Web & Mobile, currently I'm a CEO of startup called Bluetec 🚀 in Burundi, passionate about solving social problems with a rapid-prototyping & agile environment using mainly JavaScript and Python.</samp>
 <samp>
 
-When i am not <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/developer.gif"
+When i am not <img src="https://github.com/monfortbrian/monfort-brian/blob/master/assets/developer.gif" width="25px">
  , I'm probably chilling in the nature, sipping alcohol with family and friends, or travelling</samp> &nbsp;  &nbsp; 
 
 
