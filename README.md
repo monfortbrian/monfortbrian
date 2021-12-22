@@ -5,11 +5,12 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white&color=071A2C&link=https://twitter.com/monfortbrian)](https://twitter.com/monfortbrian)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C&link=mailto:monfortbrian@outlook.com)](mailto:monfortbrian@outlook.com)
 
+## <samp>Hello World!</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px">
 
-<samp>A Full Stack Developer | Web & Mobile, currently I'm a CEO of startup called Bluetec 🚀  width="30px"> in Burundi, passionate about solving social problems with a rapid-prototyping & agile environment using mainly JavaScript and Python.</samp>
+<samp>A Full Stack Developer | Web & Mobile, currently I'm a CEO of startup called Bluetec 🚀 in Burundi, passionate about solving social problems with a rapid-prototyping & agile environment using mainly JavaScript and Python.</samp>
 <samp>
 
-When i am not <img src="https://github.com/monfortbrian/monfort-brian/blob/master/assets/developer.gif"
+When i am not <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/developer.gif"
  , I'm probably chilling in the nature, sipping alcohol with family and friends, or travelling</samp> &nbsp;  &nbsp; 
 
 
