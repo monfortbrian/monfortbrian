@@ -1,4 +1,4 @@
-# <samp>Hi, I'm Monfort N. Brian</samp>
+# <samp>Hi I'm Monfort N.Brian, a full-stack engineer.</samp>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/monfortbrian/)](https://www.linkedin.com/in/monfortbrian/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C&link=https://www.instagram.com/monfortbrian)](https://www.instagram.com/monfortbrian)
