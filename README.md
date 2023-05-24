@@ -2,14 +2,14 @@
 
 <samp>A passionate UX Designer & Full-Stack developer with a strong focus on creating exceptional user experiences. With a keen eye for detail, I strive to design interfaces that are both visually appealing and develop robust and efficient solutions that address complex challenges.</samp>
 
-### <samp>Building [__Bluetec__](https://bluetec.bi) & [__Shora Konnect__](https://shorakonnect.org)</samp>
+#### <samp>Building [__Bluetec__](https://bluetec.bi) & [__Shora Konnect__](https://shorakonnect.org)</samp>
 
-<samp>My day to day tools and others
-Tools: GitHub, VSCode, Figma, Miro, Notion, Jira, Canva, Adobe suite, Zoho, Monday, Airtable 
-Languages: Dart, Javascript ES6, TypeScript
-Frameworks: React/Next, Node.js & tRPC
-Database: MySQL, MongoDB, Firebase & SQLite 
-Soft Skills: Leadership, Teamwork, Creative, Communication & Critical Thinking.</samp>
+<samp>My day to day tools and others <br>
+Tools: GitHub, VSCode, Figma, Miro, Notion, Jira, Canva, Adobe suite, Zoho, Monday, Airtable <br>
+Languages: Dart, Javascript ES6, TypeScript <br>
+Frameworks: React/Next, Node.js & tRPC <br>
+Database: MySQL, MongoDB, Firebase & SQLite <br>
+Soft Skills: Leadership, Teamwork, Creative, Communication & Critical Thinking. <br></samp>
 
 <samp>I'm an introvert and a nomad, and I love to <img src="https://github.com/monfortbrian/monfortbrian/blob/master/assets/developer.gif" width="40px"> in nature and sip a craft beer with my entourage.</samp> &nbsp;  &nbsp; 
 
