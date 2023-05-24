@@ -14,9 +14,7 @@ Soft Skills: Leadership, Teamwork, Creative, Communication & Critical Thinking. 
 <samp>I'm an introvert and a nomad, and I love to <img src="https://github.com/monfortbrian/monfortbrian/blob/master/assets/developer.gif" width="40px"> in nature and sip a craft beer with my entourage.</samp> &nbsp;  &nbsp; 
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/monfortbrian/)](https://www.linkedin.com/in/monfortbrian/)
-
 [![Twitter Badge](https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white&color=071A2C&link=https://twitter.com/monfortbrian)](https://twitter.com/monfortbrian)
-
 [![Gmail Badge](https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C&link=mailto:monfortbrian@outlook.com)](mailto:monfortbrian@outlook.com)
 
 ## &#x1f4c8; My GitHub Stats
