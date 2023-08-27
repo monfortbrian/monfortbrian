@@ -1,17 +1,19 @@
 # <samp>Hello World!, Amahoro!! </samp>
 
-<samp>A passionate UX Designer & Full-Stack developer with a strong focus on creating exceptional user experiences. With a keen eye for detail, I strive to design interfaces that are both visually appealing and develop robust and efficient solutions that address complex challenges.</samp>
+<samp>My Name is Monfort N. Brian, a passionate UX Designer & Software Developer. </samp>
 
-#### <samp>Building [__Bluetec__](https://bluetec.bi) & [__Shora Konnect__](https://shorakonnect.org)</samp>
+<samp> I like crafting UX & build accessible, inclusive products and digital experiences for the web. I work in Javascript/Jamstack ecosystem. </samp>
+<samp> My real strength: finding better ways of doing things and bridging gaps between teams, clients and all stakeholders. 
+I'm a methodical, logical thinker and am constantly looking for opportunities to multiply strength to help others deliver their best results, and creating <samp>[__Bluetec__](https://bluetec.bi)</samp> is a continuation of that goal.</samp>
 
-<samp>My day to day tools and others <br>
-Tools: GitHub, VSCode, Figma, Miro, Notion, Jira, Canva, Adobe suite, Zoho, Monday, Airtable <br>
-Languages: Dart, Javascript ES6, TypeScript <br>
-Frameworks: React/Next, Node.js & tRPC <br>
-Database: MySQL, MongoDB, Firebase & SQLite <br>
+<samp>Few tech stack I’ve been working with:<br>
+Tools: Git, VSCode, Figma, Notion, Jira, Zoho, Airtable <br>
+Languages: Javascript(ES6), TypeScript <br>
+Frameworks: React, Next.js, Node.js & tRPC <br>
+Database: MySQL, MongoDB, Firebase, Appwrite & SQLite <br>
 Soft Skills: Leadership, Teamwork, Creative, Communication & Critical Thinking. <br></samp>
 
-<samp>I'm an introvert and a nomad, and I love <img src="https://github.com/monfortbrian/monfortbrian/blob/master/assets/developer.gif" width="40px"> in nature and sip a craft beer with my entourage.</samp> &nbsp;  &nbsp; 
+<samp>When I'm not in <img src="https://github.com/monfortbrian/monfortbrian/blob/master/assets/developer.gif" width="40px">, I'm usually minding my own business, going out or traveling with friends, or contemplating nature while sipping a craft beer.</samp> &nbsp;  &nbsp; 
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/monfortbrian/)](https://www.linkedin.com/in/monfortbrian/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white&color=071A2C&link=https://twitter.com/monfortbrian)](https://twitter.com/monfortbrian)
